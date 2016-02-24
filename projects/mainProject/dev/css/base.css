@@ -18,7 +18,8 @@ body {
 
 .header,
 .middle,
-.footer {
+.footer,
+.afterfooter {
 		margin:0 10px;
 		text-align: center;
 		background-color: #f4f4f4;
