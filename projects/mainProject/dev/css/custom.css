@@ -216,8 +216,13 @@
 	padding: 0 !important;
 	font-family: 'Open sans';
 }
+.features>table{
+	background-color: #f4f4f4;
+}
 
-
+.features .column{
+	background: #f4f4f4;
+}
 .features .column>table {
 	border: 10px solid #f4f4f4!important;
 	background: #ffffff;
