@@ -1,5 +1,7 @@
 /* Newsletter */
-
+font {
+	font-family: 'Open Sans', sans-serif;
+}
 body {
 		background-color: #f4f4f4;
 		margin: 0;
@@ -331,6 +333,7 @@ p {
 
 
 .news__heading{
+	font-family: 'Open Sans', sans-serif;
 	font-size: 30px;
 }
 .news__devider{

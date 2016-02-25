@@ -1,5 +1,7 @@
 /* Newsletter */
-
+font {
+	font-family: 'Open Sans', sans-serif;
+}
 body {
 		background-color: #f4f4f4;
 		margin: 0;
