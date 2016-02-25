@@ -195,8 +195,8 @@ p {
 
 .button--primary {margin-left: 0!important;}
 .button--primary a.button-link{
-	background-color: #53c255;
-	border: #53c255 10px solid;
+	background-color: #56bc58;
+	border: #56bc58 10px solid;
 	border-radius: 6px;
 
 }
@@ -431,8 +431,8 @@ p {
 	margin-top: 10px;
 	display: block;
 	border-radius: 4px;
-	background-color: #72c145;
-	border-color: #72c145;
+	background-color: #56bc58;
+	border-color: #56bc58;
 	font-weight: 100!important;
 	font-family: 'Open sans';
 }
